@@ -1,0 +1,66 @@
+.App {
+    font-family: 'Rubik', sans-serif;
+}
+
+.label {
+    color: rgb(161, 161, 161);
+    font-size: 16px;
+}
+
+.formContainer {
+    padding: 50px 30px;
+    align-content: right;
+}
+
+.listContainer {
+    padding: 50px 25px;
+    border-left: 3px solid rgb(243, 243, 243);
+    height: 100%;
+}
+
+.listHeader {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+  @media only screen and (min-width: 200px) and (max-width: 900px) {
+    .listContainer {
+      border: none;
+      padding: 30px;
+      margin: auto;
+
+    }
+
+    .formContainer {
+        padding: 30px;
+        align-content: right;
+    }
+
+  }
+
+
+  /* .order {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 18px;
+    width: 220px;
+    margin: 20px auto;
+  }
+  .order h1 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0px;
+  } */
+
+  /* .order .details p {
+
+  } */
+
+  /* .order p {
+    font-size: 1em;
+    margin: 0px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+   */
