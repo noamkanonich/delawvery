@@ -10,6 +10,9 @@ Furthermore, user last orders will be saved to local storage.
 5. Enjoy the app
 
 # Screenshots
+![delawvery](https://user-images.githubusercontent.com/55742997/140706789-e74f62b9-0845-40f2-b027-7542780c94da.jpg)
+
+![delawvery2](https://user-images.githubusercontent.com/55742997/140706799-f9e04b57-6b59-43f5-aa1a-8d026c3c0595.jpg)
 
 
 ## Available Scripts
