@@ -1,5 +1,5 @@
 # Description
-A simple responsive order system which user can add, edit and delete an order.
+A simple responsive order system made with React, which user can add, edit and delete an order.
 Furthermore, user last orders will be saved to local storage.
 
 # How To Start
@@ -14,6 +14,7 @@ Furthermore, user last orders will be saved to local storage.
 
 ![delawvery2](https://user-images.githubusercontent.com/55742997/140706799-f9e04b57-6b59-43f5-aa1a-8d026c3c0595.jpg)
 
+![responsive](https://user-images.githubusercontent.com/55742997/140707861-79e7209f-0cb3-4c2b-9437-608d2c86e072.jpg)
 
 ## Available Scripts
 
