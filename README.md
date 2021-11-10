@@ -1,5 +1,5 @@
 # Description
-A simple responsive order system made with React, which user can add, edit and delete an order.
+A simple responsive order system made with React and Material UI, which user can add, edit and delete an order.
 Furthermore, user last orders will be saved to local storage.
 
 # How To Start
